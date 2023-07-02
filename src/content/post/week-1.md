@@ -124,7 +124,12 @@ Lv14 : fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 	- https://www.youtube.com/watch?v=7_LPdttKXPc
 	- http://computer.howstuffworks.com/web-server5.htm
 15 : jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+	- echo "jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt" | openssl s_client -connect 127.0.0.1:30001-ign_eof
+16 : JQttfApK4SeyHwDlI9SXGR50qclOAil1
+	- 
 ```
+
+
 
 ## Next Week
 + [ ] Linux Tool : VIM
