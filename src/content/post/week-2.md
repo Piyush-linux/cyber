@@ -1,33 +1,46 @@
 ---
 title: "Week 2 - Hunt"
 description: "This post is for testing and listing a number of different markdown elements"
-publishDate: "26 Jun 2023"
+publishDate: "1 Jul 2023"
 tags: ["jrnl"]
 ---
 
-# Accomplishment
-- hunting resources
-- [x] Gathre Resources form reddit
-- [ ] Note Source in Piyotes (Personnel Notes)
-- [ ] weekly leaarn : windows 
-	+ [ ] THM : window fundamental
-	+ [ ] 
-- [ ] started connecting to various Social Media communitites 
-- Don;t get overwelmned by all these resources , pick one which looks eash
-	+ by doing one thing
-	+ you'l know more 10 things related to it
-	+ Put your next work time to that thing which your are familira
-	+ Instead of wasting time on which course to select , put your efforts on what you have in front of you
+> Whenever Humans Encounter The Unknown, They Tend To Lose Perspective — Knov
 
+# Weekly Accomplushment
+- [x] Organized Roadmap for Cyber Security : CEH , RHCSA
+- [x] Web PJ on astro [Template](https://jamstackthemes.dev/demo/theme/hugo-apsho/)
+- [x] This Blog is Live from Today
+- [x] THM : Windows Foundation 1
+- [x] OTW : Natas (Lv1-5)
 
+# Weekly Learning
+- Best Desicion to Create account on Twitter and connecting to CybSec communities
+- Book are way : tired of Tutorial Hell > __RHCSA by Vander San__
 
-# Goal
-- [ ] learn : wireshark
-- [ ] R&D : Dark web, Cyber Certification , Reddit , @GeraldAufer
-- [ ] Block : THM(windows), Linux(CTF) , WEB()
+# Weekly Resources
+- @GeraldAufer
+- @AnkitChaun
+- RHCSA by Vander San
 
-# Cerification
-- CEH > RHCSA
+## Day 1
+- Explore SIte generator such as : hugo , JamStack , Astro , Nuxt , Jekylln
+- Strted Creatign A Sample website on Astro Template
+	
+
+## Day 2
+
+### Cerification
+- Cyber Security [Certification](https://pauljerimy.com/security-certification-roadmap/) ?
+- OSINT ,CTF,GRC Analyst, PNPT,SOC Analysit,OSINT / CISO : GRC,SecOps,SescTech,PM
+- [ ] How to get started in [CySec](https://www.youtube.com/watch?v=4d-qmWLt90E)
+	+ CompTIA 
+		* A+ (3/yr)
+		* Network +
+		* __Security +__
+		* Google IT Support Certification
+		* Linux+
+	+ OSCP SSCP
 - CEH/PenTest+ , RHCSA, , A+ , Net+ , Sec+ , Project+ , 
 - After PenTest+ and CISSP, go for OSCP. 
 - cJPT,cCPPT,eWPTX,OSWE,OSCP,eCPTX,OSCE,OSEE
@@ -43,39 +56,15 @@ tags: ["jrnl"]
 		* https://github.com/chlebik/rhcsa-practice-questions
 		* https://github.com/techarkit/Linux_guides
 
-## Day 1 : R&D
-
-- [x] Cyber Security [Certification](https://pauljerimy.com/security-certification-roadmap/) ?
-- [ ] OSINT ,CTF,GRC Analyst, PNPT,SOC Analysit,OSINT / CISO : GRC,SecOps,SescTech,PM
-- [ ] How to get started in [CySec](https://www.youtube.com/watch?v=4d-qmWLt90E)
-	+ CompTIA 
-		* A+ (3/yr)
-		* Network +
-		* __Security +__
-		* Google IT Support Certification
-	+ OSCP 
-	+ SSCP
-	
-
----
-
-## WEB
-## Day 2
-- [ ] WEB_PJ : https://jamstackthemes.dev/demo/theme/hugo-apsho/
-	+ Vue init
 ## Day 3
 - WEB_PJ : Vue Roting
 
-## Linux Networking
+### Linux Networking
 - https://www.landoflinux.com/linux_networking.html
 - https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux
 - nmap , wireshark
 
-
-
-
-
-## Windows
+### Windows
 - [RDP](https://www.cyberark.com/resources/threat-research-blog/explain-like-i-m-5-remote-desktop-protocol-rdp)
 - Windows history , window : vista / xp / 7 / 10 / 11 , windows server
 - File System (NTFS)
@@ -90,6 +79,7 @@ tags: ["jrnl"]
 	+ Another feature of NTFS is [Alternate Data Streams (ADS)](https://www.malwarebytes.com/blog/news/2015/07/introduction-to-alternate-data-streams).
 		*  Alternate Data Streams  (ADS) is a file attribute specific to Windows  NTFS (New Technology File System).
 ![](https://assets.tryhackme.com/additional/win-fun1/ntfs-permissions1.png)
+
 ### Day4
 - [The Windows\System32 Folders](https://www.howtogeek.com/346997/what-is-the-system32-directory-and-why-you-shouldnt-delete-it/)
 -  User Accounts, Profiles, and Permissions
@@ -109,14 +99,12 @@ tags: ["jrnl"]
 
 ### R&D
 - Dark Web
-	+ Tails OS
-	+ tor cmd
 	+ https://www.fortinet.com/resources/cyberglossary/what-is-arp
-	+ openvpn
 - SiteGenerator
 - https://raw.githubusercontent.com/An0nUD4Y/Cybersec-Talks/main/Roadmap%20To%20Cybersecurity%20.pdf
 - https://github.com/imrk51/CEH-v11-Study-Guide/blob/main/modules/1-Introduction.md
 - https://codered.eccouncil.org/courseVideo/digital-forensics-essentials?logged=true
 
 # Next Week Goal
-- [ ] CEH Syllabus
+- [ ] CEH 
+- [ ] RHCSA

@@ -119,3 +119,12 @@ This theme is inspired by [Hexo Theme Cactus](https://github.com/probberechts/he
 ## License
 
 MIT
+
+
+---
+astro.config.ts
+  site : https://username.github.io
+  base : /repo
+constatnt.ts
+PostPreview.astro
+
