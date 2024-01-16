@@ -1,6 +1,6 @@
 ---
 title: "Bash Scripting (Starter Pack)"
-description: "Lets Automate our Daily Task by using Bash Scripting."
+description: "Lets Automate our Daily Task by using Bash Scripting Scripting Scripting."
 publishDate: "19 Sep 2023"
 tags: ["bash","devops","script"]
 ---

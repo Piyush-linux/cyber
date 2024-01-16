@@ -5,8 +5,9 @@ import { getCollection } from "astro:content";
 import PageLayout from "@/layouts/Base";
 import PostPreview from "@/components/blog/PostPreview";
 import Pagination from "@/components/Paginator";
+import { root } from "@/data/constants" 
 import { getUniqueTags, sortMDByDate } from "@/utils";
-
+ 
 export const getStaticPaths = (async ({ paginate }) => {
 	const allPosts = await getCollection("post");
 	const allPostsByDate = sortMDByDate(allPosts);
@@ -84,7 +85,7 @@ const paginationProps = {
 							<li>
 								<a
 									class="flex items-center justify-center rounded-lg bg-accent p-1"
-									href={`/tags/${tag}/`}
+									href={`${root}/tags/${tag}/`}
 									aria-label={`View all posts with the tag: ${tag}`}
 								>
 									{tag}
@@ -93,7 +94,7 @@ const paginationProps = {
 						))}
 					</ul>
 					<span class="mt-4 block sm:text-end">
-						<a class="sm:hover:text-accent" href="/tags/" aria-label="View all blog categories">
+						<a class="sm:hover:text-accent" href={`${root}/tags/`} aria-label="View all blog categories">
 							View all →
 						</a>
 					</span>

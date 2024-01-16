@@ -122,9 +122,20 @@ MIT
 
 
 ---
+
+# Root Path
+- Change Path
+
 astro.config.ts
   site : https://username.github.io
   base : /repo
-constatnt.ts
-PostPreview.astro
+data/constatnt.ts
+src/pages/tags/index.astro
+src/pages/tags/tag/[...page].astro
+src/pages/posts/[...page].astro
+src/components/blog/Hero.astro
+src/components/blog/PostPreview.astro
 
+## Blogs
+- linux
+- Custom ROM

@@ -1,5 +1,5 @@
 ---
-title: "Linux Starter Pack Lv:1"
+title: "Linux : Starter Pack Roadmap (Lv:1)"
 description: "Linux is a computer operating system family, and one of the most prominent examples of free software and open source development."
 publishDate: "1 Oct 2023"
 tags: ["linux"]

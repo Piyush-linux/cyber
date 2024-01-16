@@ -20,3 +20,5 @@ export const SOCIAL_LINKS = {
 	// discord: "https://github.com/chrismwilliams/astro-cactus",
 	email: "me@example.com",
 };
+
+export const root = "/cyber"

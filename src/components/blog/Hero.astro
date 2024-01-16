@@ -1,7 +1,7 @@
 ---
 import { getFormattedDate } from "@/utils";
 import type { CollectionEntry } from "astro:content";
-
+import { root } from "@/data/constants" 
 interface Props {
 	content: CollectionEntry<"post">;
 }
@@ -39,7 +39,7 @@ const postDate = getFormattedDate(content.data.publishDate, { month: "long" });
 					<a
 						class="cactus-link inline-block before:content-['#']"
 						aria-label={`View more blogs with the tag ${tag}`}
-						href={`/tags/${tag}/`}
+						href={`${root}/tags/${tag}/`}
 					>
 						{tag}
 					</a>
