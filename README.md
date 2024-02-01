@@ -138,4 +138,18 @@ src/components/blog/PostPreview.astro
 
 ## Blogs
 - linux
+  - distro
+  - CLI
+  - system
 - Custom ROM
+- Windows
+- Gmail
+- Privacy
+  - PC : Linux , browser , 
+  - Phone : 
+
+# Example
+- https://christine.website/blog/birth-death-seo/
+- https://tailscale.dev/blog/funnel-101
+https://www.willghatch.net/blog/2020/06/27/nixos-the-good-the-bad-and-the-ugly/
+https://drakerossman.com/blog

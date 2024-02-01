@@ -1,15 +1,17 @@
+export const root = "/cyber"
+
 export const MENU_LINKS = [
 	{
 		title: "Home",
-		path: "/cyber/",
+		path: `${root}`,
 	},
 	{
 		title: "About",
-		path: "/cyber/about/",
+		path: `${root}/about/`,
 	},
 	{
 		title: "Blog",
-		path: "/cyber/posts/",
+		path: `${root}/posts/`,
 	},
 ];
 
@@ -20,5 +22,3 @@ export const SOCIAL_LINKS = {
 	// discord: "https://github.com/chrismwilliams/astro-cactus",
 	email: "me@example.com",
 };
-
-export const root = "/cyber"
