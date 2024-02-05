@@ -61,7 +61,6 @@ Get-Content .\file.txt
 // Pipes
 Get-ChildItem | Parent
 Get-ChildItem | Select-Object -Index 0 | Select-Object Name
-
 (Get-ChildItem).Name
 (Get-ChildItem).ToString()
 
